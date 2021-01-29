@@ -1,0 +1,8 @@
+server:
+  port: 9900 # 端口
+
+spring:
+  application:
+    name: config-client # 应用名称
+
+name: config-client-prod
